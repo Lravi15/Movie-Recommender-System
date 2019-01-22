@@ -4,3 +4,4 @@ In this project, we utilize model-based collaborative filtering and MovieLens da
 # Model-based CF & matrix factorization
 
 https://github.com/chlin907/CFRecommenderSystem/blob/master/img/img1.png
+https://github.com/chlin907/CFRecommenderSystem/blob/master/img/img1.png?raw=true
